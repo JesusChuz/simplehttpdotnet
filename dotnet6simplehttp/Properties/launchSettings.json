@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "simplehttpn": {
+    "dotnet6simplehttp": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7048",
+      "commandLineArgs": "--port 7211",
       "launchBrowser": false
     }
   }
